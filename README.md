@@ -1,4 +1,5 @@
 # unblock_music
+# 本项目不再维护,请使用[unblockNCM](https://github.com/LastStranger/unblockNCM)
 unblock neteasecloud music electron App, easy to use, zero config 
 ### mac的桌面版本的 unblock网易云音乐
 #### 目前只适配mac!!!
